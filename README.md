@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**sahana-dm/sahana-dm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sahana D.M. 👋
 
-Here are some ideas to get you started:
+## B.Tech Student | VLSI & Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a first-year B.Tech student passionate about electronics, embedded systems, and continuous learning. I'm building my skills through projects, certifications, and GitHub.
+
+### 🎓 Education
+- B.Tech – VLSI & Embedded Systems
+- First Year Engineering Student
+
+### 📜 Certifications
+- **PGDCA (Grade A)** – Super Links of Neotech (SLN) Computer Education
+
+### 💻 Skills
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+- Windows
+- Computer Applications
+
+### 🌱 Currently Learning
+- C Programming
+- Git & GitHub
+- Embedded Systems
+- VLSI Basics
+
+### 📫 Connect with me
+- LinkedIn: *(www.linkedin.com/in/
+sahana-d-m)*
 -->
